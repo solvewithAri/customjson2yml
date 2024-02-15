@@ -1,0 +1,32 @@
+[
+    {
+        "ref": "101",
+        "cust": [
+        ],
+        "dtls": [
+            {
+                "idf": [
+                    "101"
+                ],
+                "unit": "vp"
+            }
+        ],
+        "isbol": true,
+        "offset": 1
+    },
+    {
+        "ref": "102",
+        "cust": [
+        ],
+        "dtls": [
+            {
+                "idf": [
+                    "102"
+                ],
+                "unit": "vp2"
+            }
+        ],
+        "isbol": false,
+        "offset": 2
+    }
+]

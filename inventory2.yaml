@@ -1,0 +1,15 @@
+skus:
+- offset: 1
+  dtls:
+  - unit: vp
+    idf:
+    - '101'
+  isbol: true
+  name: '101'
+- offset: 2
+  dtls:
+  - unit: vp2
+    idf:
+    - '102'
+  isbol: false
+  name: '102'
